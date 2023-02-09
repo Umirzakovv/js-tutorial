@@ -89,3 +89,4 @@ console.log(false ?? 1);
 console.log("lorem");
 console.log("loremm");
 console.log("loremmmg");
+console.log("loremmmg");
