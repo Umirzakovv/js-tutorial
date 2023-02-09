@@ -88,3 +88,4 @@ console.log(NaN ?? 1);
 console.log(false ?? 1);
 console.log("lorem");
 console.log("loremm");
+console.log("loremmmg");
